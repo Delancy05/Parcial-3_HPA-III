@@ -1,11 +1,10 @@
 # Parcial #3 – Herramientas de la Programación Aplicada III (.NET)
 
-**Universidad Tecnológica de Panamá – Facultad de Ingeniería en Sistemas**
-**Campus Víctor Levi Sasso**
-**Grupo:** 1IL133 · II Semestre 2026
-**Instructor:** Ing. Irina Fong
-**Estudiante:** Chelsy Rios
-**Cédula:** 8-1033-1739
+- **Universidad Tecnológica de Panamá** – Facultad de Ingeniería en Sistemas
+- **Campus:** Víctor Levi Sasso
+- **Grupo:** 1IL133 · II Semestre 2026
+- **Instructor:** Ing. Irina Fong
+- **Estudiante:** Chelsy Rios
 
 ---
 
