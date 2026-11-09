@@ -1,0 +1,15 @@
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\bin\Debug\net10.0\Parte1_Figuras.exe
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\bin\Debug\net10.0\Parte1_Figuras.deps.json
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\bin\Debug\net10.0\Parte1_Figuras.runtimeconfig.json
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\bin\Debug\net10.0\Parte1_Figuras.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\bin\Debug\net10.0\Parte1_Figuras.pdb
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\Parte1_Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\Parte1_Figuras.AssemblyInfoInputs.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\Parte1_Figuras.AssemblyInfo.cs
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\Parte1_Figuras.csproj.CoreCompileInputs.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\Parte1_Figuras.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\refint\Parte1_Figuras.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\Parte1_Figuras.pdb
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\Parte1_Figuras.genruntimeconfig.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\ref\Parte1_Figuras.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte1_Figuras\obj\Debug\net10.0\Parte1_F.74AB5989.Up2Date

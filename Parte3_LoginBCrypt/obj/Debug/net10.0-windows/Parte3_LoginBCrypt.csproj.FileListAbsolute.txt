@@ -1,0 +1,38 @@
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.exe
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.deps.json
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.runtimeconfig.json
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.dll
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.pdb
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\BCrypt.Net-Next.dll
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.csproj.AssemblyReference.cache
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.AssemblyInfoInputs.cache
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.AssemblyInfo.cs
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.csproj.CoreCompileInputs.cache
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_L.69B35514.Up2Date
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.dll
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\refint\Parte3_LoginBCrypt.dll
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.pdb
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.genruntimeconfig.cache
+C:\Users\chels\Downloads\Parcial3_1\Parcial3\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\ref\Parte3_LoginBCrypt.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.exe
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.deps.json
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.runtimeconfig.json
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Parte3_LoginBCrypt.pdb
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\BCrypt.Net-Next.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.csproj.AssemblyReference.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.AssemblyInfoInputs.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.AssemblyInfo.cs
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.csproj.CoreCompileInputs.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_L.69B35514.Up2Date
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\refint\Parte3_LoginBCrypt.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.pdb
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\Parte3_LoginBCrypt.genruntimeconfig.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte3_LoginBCrypt\obj\Debug\net10.0-windows\ref\Parte3_LoginBCrypt.dll

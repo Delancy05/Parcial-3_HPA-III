@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4SgD6TeYaw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chels\\Documents\\HPA III\\Parcial3_Rios,Chelsy\\Parte3_LoginBCrypt\\Parte3_LoginBCrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chels\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\chels\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\chels\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"MySqlConnector\" 2.3.7 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "projectPath": "C:\\Users\\chels\\Documents\\HPA III\\Parcial3_Rios,Chelsy\\Parte3_LoginBCrypt\\Parte3_LoginBCrypt.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\chels\\Documents\\HPA III\\Parcial3_Rios,Chelsy\\Parte3_LoginBCrypt\\Parte3_LoginBCrypt.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
+}

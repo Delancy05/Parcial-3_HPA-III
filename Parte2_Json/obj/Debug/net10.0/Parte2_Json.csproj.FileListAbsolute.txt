@@ -1,0 +1,17 @@
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\bin\Debug\net10.0\Parte2_Json.exe
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\bin\Debug\net10.0\Parte2_Json.deps.json
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\bin\Debug\net10.0\Parte2_Json.runtimeconfig.json
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\bin\Debug\net10.0\Parte2_Json.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\bin\Debug\net10.0\Parte2_Json.pdb
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_Json.csproj.AssemblyReference.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_Json.AssemblyInfoInputs.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_Json.AssemblyInfo.cs
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_Json.csproj.CoreCompileInputs.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_J.FC8EE818.Up2Date
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_Json.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\refint\Parte2_Json.dll
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_Json.pdb
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\Parte2_Json.genruntimeconfig.cache
+C:\Users\chels\Documents\HPA III\Parcial3_Rios,Chelsy\Parte2_Json\obj\Debug\net10.0\ref\Parte2_Json.dll
